@@ -1,6 +1,6 @@
 /* Estilo geral da página */
 body {
-    background-color: #2b1d0c;
+    background-color: #341100;
     margin: 0;
     padding: 30px;
     display: flex;
@@ -21,7 +21,7 @@ body {
 
 /* Título Principal */
 .titulo-principal {
-    color: #3b220b; /* Requisito: color */
+    color: #341100; /* Requisito: color */
     background-color: transparent; /* Requisito: background-color */
     font-size: 52px; /* Requisito: font-size */
     text-align: center; /* Requisito: text-align */
@@ -49,7 +49,7 @@ body {
 /* Seção de Textos */
 .conteudo-texto {
     text-align: center; /* Requisito: text-align */
-    color: #3b220b; /* Requisito: color */
+    color: #341100; /* Requisito: color */
     margin-top: 15px;
 }
 
